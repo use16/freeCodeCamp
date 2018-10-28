@@ -1,9 +1,3 @@
----
-title: Vim
-localeTitle: Я пришел
----
-# напор
-
 [![logo](https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Vimlogo.svg/75px-Vimlogo.svg.png "Логотип Vim")](https://vim.sourceforge.io)
 
 Vim (Vi IMproved) - высоко настраиваемый текстовый редактор, созданный для создания и изменения любого текста очень эффективным. Он включен как «vi» с большинством UNIX-систем, в который также входит MacOS от Apple. Vim значительно улучшился по сравнению с предшественником _vi_ , который был разработан более 40 лет назад, и он все еще используется.
